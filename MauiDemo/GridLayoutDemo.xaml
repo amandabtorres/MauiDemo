@@ -31,10 +31,10 @@
                    VerticalOptions="EndAndExpand"/>
             
             <Entry Grid.Row="1" Placeholder="Email ou telefone"
-                   PlaceholderColor="PapayaWhip" FontSize="16"/>
+                   PlaceholderColor="Gray" FontSize="16"/>
             
             <Entry Grid.Row="2" Placeholder="Senha"
-                   PlaceholderColor="PapayaWhip" FontSize="16"/>
+                   PlaceholderColor="Gray" FontSize="16"/>
             
             <Button Text="LogIn" BackgroundColor="#3897f0"
                     TextColor="White" HeightRequest="50"
